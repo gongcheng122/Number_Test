@@ -21,6 +21,21 @@ float 	Float
 double 	Double
 boolean 	Boolean
  */
+
+/*
+1 	xxxValue()
+将 Number 对象转换为xxx数据类型的值并返回。
+2 	compareTo()
+将number对象与参数比较。
+3 	equals()
+判断number对象是否与参数相等。
+4 	valueOf()
+返回一个 Number 对象指定的内置数据类型
+5 	toString()
+以字符串形式返回值。
+6 	parseInt()
+将字符串解析为int类型。
+ */
 public class Main {
 
     public static void main(String[] args) {
